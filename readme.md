@@ -5,7 +5,7 @@
 This repository contains the following listed Java Practicals that are done using Java.
 
 - Input values using Scanner and display on the screen.
-- Demonstrate loop and conditional statements: for-loop, while loop, if-else condition, if-else if-else, switch, break and continue statements. 
+- Demonstrate loop and conditional statements: for-loop, while loop, if-else condition, if-elseif-else, switch, break and continue statements. 
 - Demonstrate the use of primitive datatype available n Java and conversion between them using typecasting (if possible) to understand lossy/non-lossy conversions.
 - Create the following patterns, (number of rows shall be entered by user at run time):
   ![java patterns](ProjectImages/img.png)
