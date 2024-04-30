@@ -44,7 +44,7 @@ The Java Collections Framework provides a well-designed set of interfaces and cl
 
 Here is a diagram showcasing the hierarchy of the Java Collection classes:
 
-|                                                                      ![Java Collection Hierarchy](ProjectImages/java-collection-hierarchy.png)                                                                       |
+|                                 <a href="ProjectImages/java-collection-hierarchy.png" target="_blank">![Java Collection Hierarchy](ProjectImages/java-collection-hierarchy.png)</a>                                  |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Image Source: [Medium Article on Mastering the Java Collections Framework Hierarchy](https://medium.com/@mbanaee61/mastering-the-java-collections-framework-hierarchy-with-java-code-and-junit-testing-ab2eb87746ed) |
 
@@ -62,9 +62,9 @@ Remember, it's always a good practice to handle exceptions in order to maintain 
 
 The following diagram shows the class hierarchy of the Java Exception classes:
 
-|       ![Java Exception Handling Class Hierarchy](ProjectImages/java-exception-handling-class-hierarchy-diagram.png)       |
-|:-------------------------------------------------------------------------------------------------------------------------:|
-| Image Source: [Interview Noodle Article on Exception in Java](https://interviewnoodle.com/exception-in-java-89a0b41e0c45) |
+| <a href="ProjectImages/java-exception-handling-class-hierarchy-diagram.png" target="_blank">![Java Exception Handling Class Hierarchy](ProjectImages/java-exception-handling-class-hierarchy-diagram.png)</a> |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                           Image Source: [Interview Noodle Article on Exception in Java](https://interviewnoodle.com/exception-in-java-89a0b41e0c45)                                           |
 
 ## Types of Exceptions in Java
 
@@ -76,9 +76,9 @@ In Java, exceptions are divided into two main categories: checked and unchecked 
 
 Here is a diagram showcasing the types of exceptions in Java:
 
-|                           ![Types of Exceptions in Java](ProjectImages/types-of-exception-in-java.png)                           |
-|:--------------------------------------------------------------------------------------------------------------------------------:|
-| Image Source: [Medium Article on Java Exception Handling](https://medium.com/@bhavyasri9177/java-exception-handling-3b751904f41) |
+| <a href="ProjectImages/types-of-exception-in-java.png" target="_blank">![Types of Exceptions in Java](ProjectImages/types-of-exception-in-java.png)</a> |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|            Image Source: [Medium Article on Java Exception Handling](https://medium.com/@bhavyasri9177/java-exception-handling-3b751904f41)             |
 
 ## Developed With
 
