@@ -95,6 +95,9 @@ The practicals in this project were developed using IBM Semeru Java JDK version 
 
 ![jerry and duck handshake](https://tenor.com/en-GB/view/tom-and-jerry-jerry-the-mouse-jerry-shake-hands-handshake-gif-17827738.gif)
 
+## Copyright
+Copyright © 2024 [Tavneet Singh](https://github.com/Tavneetsingh01).
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
  
