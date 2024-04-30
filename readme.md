@@ -88,8 +88,10 @@ The practicals in this project were developed using IBM Semeru Java JDK version 
 - [IBM Semeru JDK 17.0.2 for Linux x64](https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.2%2B8_openj9-0.30.0/ibm-semeru-open-jdk_x64_linux_17.0.2_8_openj9-0.30.0.tar.gz)
 - [IBM Semeru JDK 17.0.2 for Windows x64](https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.2%2B8_openj9-0.30.0/ibm-semeru-open-jdk_x64_windows_17.0.2_8_openj9-0.30.0.zip)
 
+
+
 ## Contributing
->  :handshake: Feel free to generate a pull request to this repository to contribute more programs regarding Advanced Programming done using Java.
+>  :handshake: Feel free to open an issue in this repository If you encounter any issues with the code or generate a pull request to this repository to contribute more programs regarding Advanced Programming done using Java. Whole Community will appreciate your feedback and contributions.
 
 ![jerry and duck handshake](https://tenor.com/en-GB/view/tom-and-jerry-jerry-the-mouse-jerry-shake-hands-handshake-gif-17827738.gif)
 
