@@ -1,0 +1,35 @@
+
+FIRST Q IN QUIZ:
+/*int w=1,x=2,y=3,z=2;
+w-=x+=y*z;
+System.out.println("x="+x+"y="+y+"w="+w);*/
+
+Second question asked in quiz
+/*int w=1,x=2,y=3,z=4;
+int result1 =(x==2)?(w>x?w:x>y?x:y>z?y:z):3;
+System.out.println(result1);*/
+
+In order achieve the above said which is to use method Array.sort() on an array of students objects we need to implement Comparable interface in the class Student and in class definition we have to override compareTo() method like this: class Student implements Comparable<Student>{ public compareTo(Student otherObject){ // thos contains the code on how to comare the objects or in general we can say how to sort the array of Student objects passed to this Student class}}
+
+stop() method is deprecated because it is inherently unsafe to use. Stopping a thread causes it to unlock all the monitors that it has locked. 2) .suspend() and .resume() methods:   .suspend() is deprecated because it is inherently deadlock prone. If the target thread holds a lock on the monitor protecting a critical system resource when it is suspended, no thread can access this resource until the target thread is resumed( using .resume() method). If the thread that would resume the target thread attempts to lock this monitor prior to calling resume, deadlock results. That's the reason why .suspend() method  and as well as .resume() methods are deprecated.
+
+We can do this by using try catch block  like try{ // some code}catch( Exception e){System.out.ptintln(e);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
