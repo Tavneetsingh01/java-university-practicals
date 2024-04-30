@@ -44,7 +44,7 @@ The Java Collections Framework provides a well-designed set of interfaces and cl
 
 Here is a diagram showcasing the hierarchy of the Java Collection classes:
 
-|                                                                      ![Java Collection Hierarchy](ProjectImages/java-collection-hierarcHy.png)                                                                       |
+|                                                                      ![Java Collection Hierarchy](ProjectImages/java-collection-hierarchy.png)                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Image Source: [Medium Article on Mastering the Java Collections Framework Hierarchy](https://medium.com/@mbanaee61/mastering-the-java-collections-framework-hierarchy-with-java-code-and-junit-testing-ab2eb87746ed) |
 
