@@ -26,6 +26,7 @@ This repository contains the following listed Java Practicals that are done usin
 ### Following are some important concepts of Java:
 - [Java Collection Hierarchy](#java-collection-hierarchy)
 - [Java Exception Handling Class Hierarchy](#java-exception-handling-class-hierarchy)
+- [Types of Exceptions in Java](#types-of-exceptions-in-java)
 
 ## Java Collection Hierarchy
 
@@ -43,7 +44,9 @@ The Java Collections Framework provides a well-designed set of interfaces and cl
 
 Here is a diagram showcasing the hierarchy of the Java Collection classes:
 
-![Java Collection Hierarchy](ProjectImages/java-collection-hierarchy.png)
+|                                                                      ![Java Collection Hierarchy](ProjectImages/java-collection-hierarcHy.png)                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Image Source: [Medium Article on Mastering the Java Collections Framework Hierarchy](https://medium.com/@mbanaee61/mastering-the-java-collections-framework-hierarchy-with-java-code-and-junit-testing-ab2eb87746ed) |
 
 ## Java Exception Handling Class Hierarchy
 
@@ -59,7 +62,23 @@ Remember, it's always a good practice to handle exceptions in order to maintain 
 
 The following diagram shows the class hierarchy of the Java Exception classes:
 
-![Java Exception Handling Class Hierarchy](ProjectImages/java-exception-handling-class-hierarchy-diagram.jpg)
+|       ![Java Exception Handling Class Hierarchy](ProjectImages/java-exception-handling-class-hierarchy-diagram.png)       |
+|:-------------------------------------------------------------------------------------------------------------------------:|
+| Image Source: [Interview Noodle Article on Exception in Java](https://interviewnoodle.com/exception-in-java-89a0b41e0c45) |
+
+## Types of Exceptions in Java
+
+In Java, exceptions are divided into two main categories: checked and unchecked exceptions.
+
+- **Checked Exceptions**: These are the exceptions that are checked at compile time. If some code within a method throws a checked exception, then the method must either handle the exception or it must specify the exception using the `throws` keyword. Examples: `IOException`, `ClassNotFoundException`.
+
+- **Unchecked Exceptions**: These are the exceptions that are not checked at compiled time. In C++, all exceptions are unchecked, so it is not forced by the compiler to either handle or specify the exception. It is up to the programmers to be civilized, and specify or catch the exceptions. Examples: `ArithmeticException`, `NullPointerException`, `ArrayIndexOutOfBoundsException`.
+
+Here is a diagram showcasing the types of exceptions in Java:
+
+|                           ![Types of Exceptions in Java](ProjectImages/types-of-exception-in-java.png)                           |
+|:--------------------------------------------------------------------------------------------------------------------------------:|
+| Image Source: [Medium Article on Java Exception Handling](https://medium.com/@bhavyasri9177/java-exception-handling-3b751904f41) |
 
 ## Developed With
 
